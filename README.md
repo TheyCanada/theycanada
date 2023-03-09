@@ -6,6 +6,8 @@
 #### Category: Blogger
 1. [Blogger Profile](https://www.blogger.com/profile/06666592575060034612)
 2. [My Blog](https://theycanada.blogspot.com/)
+#### Category: Social Accounts
+1. [YouTube Channel](https://www.youtube.com/channel/UCm27se84aK1ABaB1jwyIP_w)
 
 <!--
 **TheyCanada/theycanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
