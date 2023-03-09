@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### Category: Reddit
+1. [Reddit User](https://www.reddit.com/user/TheyCanada)
+2. [Reddit Community](https://www.reddit.com/r/TheyCanada/)
+#### Category: Blogger
+1. [Blogger Profile](https://www.blogger.com/profile/06666592575060034612)
+2. [My Blog](https://theycanada.blogspot.com/)
+
 <!--
 **TheyCanada/theycanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
